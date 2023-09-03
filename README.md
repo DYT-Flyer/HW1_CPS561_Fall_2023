@@ -4,7 +4,7 @@ Student: Thomas Sherk
 
 Per HW tutorial, I have added:
 
-- Materials, PhsMaterials, Prefabs, Scripts
+- Materials, PhysMaterials, Prefabs, Scripts
 - Laid out a basic 2D level built in 3D
 - Ability to collect coins
 - Ability to jump when only touching an asset
