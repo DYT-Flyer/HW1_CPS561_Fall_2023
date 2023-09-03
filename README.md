@@ -1,6 +1,7 @@
 # HW1_CPS561_Fall_2023
 
-Thomas Sherk
+Student: Thomas Sherk
+
 Per HW tutorial, I have added:
 
 - Materials, PhsMaterials, Prefabs, Scripts
